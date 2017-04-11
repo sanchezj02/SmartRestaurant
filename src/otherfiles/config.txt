@@ -1,0 +1,21 @@
+
+Name: Alfredo Pasta
+Description: Fettuccine Alfredo tossed with parmesan cheese and butter. 
+Price: 12.99
+Image: AlfredoPasta.jpg
+
+Name: Buffalo Wings
+Description: Blazin' hot wings. Will have you beggin' for water.
+Price: 8.99
+Image: BuffaloWings.jpg
+
+Name: Chicken Parmesan
+Description: Breaded chicken cutlet baked with parmesan cheese and served with tomato sauce and pasta.
+Price: 9.99
+Image: ChickenParmesan.jpg
+
+Name: Pepperoni Pizza
+Description: Classic brick oven baked cheese pizza, topped with pepperoni.
+Price: 14.99
+Image: PepperoniPizza.jpg
+
